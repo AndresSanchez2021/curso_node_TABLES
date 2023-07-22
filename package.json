@@ -1,0 +1,16 @@
+{
+  "name": "03_bases_node",
+  "version": "0.0.1",
+  "description": "It is a simple multiplication table",
+  "main": "app.js",
+  "author": "Andres Felipe SC",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "bas3": "node app.js base=3"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
